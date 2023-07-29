@@ -4,3 +4,6 @@
 - Unity 2022.3.5f1
 - MixedRealityToolkit(MRTK) 2.8.3
 - HoloLens 2 Windows 11
+
+- TriLib2
+    - [https://assetstore.unity.com/packages/tools/modeling/trilib-2-model-loading-package-157548](https://assetstore.unity.com/packages/tools/modeling/trilib-2-model-loading-package-157548)
